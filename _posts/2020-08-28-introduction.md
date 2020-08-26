@@ -1,10 +1,10 @@
 ---
 layout: post
-title: First Post
+title: Hello! 
 ---
 
 ---
-My name is Selin Korkmaz and I am half Taiwanese/ half Turkish
+My name is Selin Korkmaz and I am half Taiwanese/ half Turkish.
 I am a senior Communication major with a double minor in Chinese and Cybersecurity from Houston, TX. 
 I have an unhealthy obsession with collecting thrifted Christmas sweaters- they bring me so much joy :) 
 You can catch me always at the movies, trying new food places, being outdoors, or taking lots of photos. 
@@ -22,7 +22,6 @@ I am taking this course not only to challenge myself but also because I have an 
 writing and after my internship this past summer, I know that my future is based on writing.
 
 ---
-
 ---
 The only way to be good at writing is with lots and lots of practice!
 
