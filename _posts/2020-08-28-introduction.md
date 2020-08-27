@@ -12,7 +12,7 @@ title: Hello!
   I am a senior Communication major with a double minor in Chinese and Cybersecurity from Houston, TX. 
 </div>
 ---
-<div class="text-yellow-light mb-2">
+<div class="text-yellow- mb-2">
   I have an unhealthy obsession with collecting thrifted Christmas sweaters- they bring me so much joy :) 
 </div>
 ---
