@@ -4,15 +4,15 @@ title: Hello!
 ---
 
 ---
-<div class="text-blue mb-2">
+<div class="text-purple mb-2">
   My name is Selin Korkmaz and I am half Taiwanese/ half Turkish.
 </div>
 ---
-<div class="text-orange-light mb-2">
+<div class="text-blue mb-2">
   I am a senior Communication major with a double minor in Chinese and Cybersecurity from Houston, TX. 
 </div>
 ---
-<div class="text-purple mb-2">
+<div class="text-red mb-2">
   I have an unhealthy obsession with collecting thrifted Christmas sweaters- they bring me so much joy :) 
 </div>
 ---
@@ -20,7 +20,7 @@ title: Hello!
   You can catch me always at the movies, trying new food places, being outdoors, or taking lots of photos. 
 </div> 
 ---
-<div class="text-red mb-2">
+<div class="text-purple mb-2">
   My favorite food of all time is sushi specifically from Aka Sushi House in HTX- seriously so good!!
 </div> 
 ---
@@ -30,7 +30,7 @@ title: Hello!
   how I speak and write.
 </div> 
 ---
-<div class="text-orange-light mb-2">
+<div class="text-red mb-2">
   I am taking this course not only to challenge myself but also because I have an interest in "digital"
   writing and after my internship this past summer, I know that my future is based on writing.
 </div> 
