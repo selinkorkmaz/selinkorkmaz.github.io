@@ -1,5 +1,6 @@
 ---
 layout: post
+colors.background": "#fff5b1
 title: Hello! 
 ---
 
