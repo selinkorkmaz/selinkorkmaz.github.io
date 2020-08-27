@@ -12,7 +12,7 @@ title: Hello!
   I am a senior Communication major with a double minor in Chinese and Cybersecurity from Houston, TX. 
 </div>
 ---
-<div class="text-purple- mb-2">
+<div class="text-purple mb-2">
   I have an unhealthy obsession with collecting thrifted Christmas sweaters- they bring me so much joy :) 
 </div>
 ---
@@ -35,7 +35,7 @@ title: Hello!
   writing and after my internship this past summer, I know that my future is based on writing.
 </div> 
 ---
-<div class="text-purple- mb-2">
+<div class="text-green- mb-2">
 The only way to be good at writing is with lots and lots of practice!
 </div> 
 ---
