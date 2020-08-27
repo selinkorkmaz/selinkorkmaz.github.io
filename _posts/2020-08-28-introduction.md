@@ -4,8 +4,12 @@ title: Hello!
 ---
 
 ---
+<div class="text-red mb-2">
   My name is Selin Korkmaz and I am half Taiwanese/ half Turkish.
+</div>
+</div class="text-orange mb-2">
   I am a senior Communication major with a double minor in Chinese and Cybersecurity from Houston, TX. 
+</div>
   I have an unhealthy obsession with collecting thrifted Christmas sweaters- they bring me so much joy :) 
   You can catch me always at the movies, trying new food places, being outdoors, or taking lots of photos. 
   My favorite food of all time is sushi specifically from Aka Sushi House in HTX- seriously so good!!
