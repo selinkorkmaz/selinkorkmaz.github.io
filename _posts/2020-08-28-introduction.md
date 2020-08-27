@@ -12,7 +12,7 @@ title: Hello!
   I am a senior Communication major with a double minor in Chinese and Cybersecurity from Houston, TX. 
 </div>
 ---
-<div class="text-pink- mb-2">
+<div class="text-purple- mb-2">
   I have an unhealthy obsession with collecting thrifted Christmas sweaters- they bring me so much joy :) 
 </div>
 ---
@@ -24,18 +24,18 @@ title: Hello!
   My favorite food of all time is sushi specifically from Aka Sushi House in HTX- seriously so good!!
 </div> 
 ---
+<div class="text-blue mb-2">
+  My whole life, writing has been my biggest weakness. And on top of that, since I was in elementary 
+  school, I have been teased on my grammar and pronoucation. This resulted in me being insecure with 
+  how I speak and write.
+</div> 
 ---
-My whole life, writing has been my biggest weakness. And on top of that, since I was in elementary 
-school, I have been teased on my grammar and pronoucation. This resulted in me being insecure with 
-how I speak and write.
-
+<div class="text-orange-light mb-2">
+  I am taking this course not only to challenge myself but also because I have an interest in "digital"
+  writing and after my internship this past summer, I know that my future is based on writing.
+</div> 
 ---
----
-I am taking this course not only to challenge myself but also because I have an interest in "digital"
-writing and after my internship this past summer, I know that my future is based on writing.
-
----
----
+<div class="text-purple- mb-2">
 The only way to be good at writing is with lots and lots of practice!
-
+</div> 
 ---
