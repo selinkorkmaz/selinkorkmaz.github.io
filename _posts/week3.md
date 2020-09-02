@@ -1,5 +1,5 @@
 ---
-title: Week 3 Reflection
-layout: What is a Data?
+title: What is a Data?
+layout: post
 ---
 Post
