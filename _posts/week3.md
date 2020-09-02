@@ -1,5 +1,6 @@
 ---
-title: What is a Data?
 layout: post
+title: What is a Data?
 ---
-Post
+
+
