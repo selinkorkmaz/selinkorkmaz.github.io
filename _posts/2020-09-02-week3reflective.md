@@ -5,16 +5,15 @@ title: Week 3 Reflective
 
 # Mr. Rebates
 
-<div>
-The real-world example I will be discussing is the website Mr. Rebates on https://www.mrrebates.com/. The website is a shopping portal where you can do online shopping and earn cash back from shopping at 3000+ stores. 
-</div> 
+
+The real-world example I will be discussing is the website Mr. Rebates on https://www.mrrebates.com/. The website is a shopping portal where you can do online shopping and earn cash back from shopping at 3000+ stores.\
 
 As you enter the website, you are initially presented with five store names on the left, the store of the week (as I am writing this it is shop Disney), and an eBay coupon. As you scroll just a tad bit, you will see the Weekly Deals, which displays twenty-eight different stores. Lastly, right below the Weekly Deals list is the New Stores, which includes six more different stores.
  
 On Weekly Deals, each key in its dictionary is staggered. The keys we see are store name (text scalar), cash back percentage (number scalar), and store deals (text scalar).
 
 <p>
-    <img src="/downloads/weeklydeals.png"
+    <img src="weeklydeals.png"
 </p>
  
 If you click the tab Stores, it brings you to All Stores to find the store you are looking for from A-Z. On this page, each key in its dictionary is lined up horizontally. The keys we see are store name (text scalar), coupons (number scalar), and cash back (number scalar).
