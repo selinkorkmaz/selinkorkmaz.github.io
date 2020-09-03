@@ -31,13 +31,7 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
 
 <p>
     <center><img src="/searchbar.png" alt="centered image" width="300" length="100">
-</p>
-<p>
     <center><img src="/allstores2.png" alt="centered image" width="300" length="100">
-</p>
-<p>
     <center><img src="/letterF.png" alt="centered image" width="300" length="100">
-</p>
-<p>
     <center><img src="/forever21.png" alt="centered image" width="300" length="100">
 </p>
