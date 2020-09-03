@@ -30,5 +30,5 @@ title: Introduction
   writing and after my internship this past summer, I know that my future is based on writing.
 </div> 
 <div class="text-green mb-2">
-The only way to be good at writing is with lots and lots of practice!
+  The only way to be good at writing is with lots and lots of practice!
 </div> 
