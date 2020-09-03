@@ -29,7 +29,6 @@ title: Introduction
   My whole life, writing has been my biggest weakness. And on top of that, since I was in elementary 
   school, I have been teased on my grammar and pronoucation. This resulted in me being insecure with 
   how I speak and write.
-</div> 
 <br/>
 <div class="text-red mb-2">
   I am taking this course not only to challenge myself but also because I have an interest in "digital"
