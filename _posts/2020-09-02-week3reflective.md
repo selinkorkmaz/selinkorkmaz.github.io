@@ -21,6 +21,7 @@ On Weekly Deals, each key in its dictionary is staggered. The keys we see are st
 
 If you click the tab Stores, it brings you to All Stores to find the store you are looking for from A-Z. On this page, each key in its dictionary is lined up horizontally. The keys we see are store name (text scalar), coupons (number scalar), and cash back (number scalar).
 <br/>
+
 <p>
     <img src="/allstores.png">
 </p>
