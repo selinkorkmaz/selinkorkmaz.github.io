@@ -41,6 +41,23 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
     <div class="column">  
         <img src="/arrow.png" width="50" length="50">
     </div>
+    <div class="column">       
+        <img src="/arrow.png" width="200" length="200"
+    </div>
+    <div class="column">  
+        <img src="/letterF.png" width="300" length="100">
+    </div>
+    <div class="column"> 
+        <img src="/arrow.png" width="200" length="200"
+    </div>
+    <div class="column"> 
+        <img src="/forever21.png" width="300" length="100">
+    </div>
 </div>
+    <br/>
+    <br/>
+    <center><img src="/apparel.png" alt="centered image" width="300" length="100">
+    <center><img src="/forever21.png" alt="centered image" width="300" length="100">
+
 
 
