@@ -48,7 +48,7 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
         <img src="/arrow.png" width="28" length="28">
     </div>
     <div class="column"> 
-         <img src="/F21copy.png" width="280" length="180">
+         <img src="/F021.png" width="280" length="180">
     </div>
 </div>
     <br/>
