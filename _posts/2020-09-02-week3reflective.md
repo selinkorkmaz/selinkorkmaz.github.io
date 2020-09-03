@@ -39,16 +39,16 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
         <img src="/allstores2.png" width="250" length="150">
     </div>
     <div class="column">  
-        <img src="/arrow.png" width="25" length="25">
+        <img src="/arrow.png" width="20" length="20">
     </div>
     <div class="column">  
         <img src="/letterF.png" width="275" length="175">
     </div>
     <div class="column"> 
-        <img src="/arrow.png" width="25" length="25">
+        <img src="/arrow.png" width="20" length="20">
     </div>
     <div class="column">
-        <img src="/F21.png" width="200" length="100">
+        <img src="/F21.png" width="220" length="120">
     </div>
 </div>
 
