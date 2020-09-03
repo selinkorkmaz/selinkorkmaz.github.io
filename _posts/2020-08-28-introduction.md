@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hello! 
+title: Introduction 
 ---
-
+#Hello!
 ---
 <div class="text-purple mb-2">
   My name is Selin Korkmaz and I am half Taiwanese/ half Turkish.
