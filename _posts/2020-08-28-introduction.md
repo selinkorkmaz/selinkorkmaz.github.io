@@ -24,13 +24,11 @@ title: Introduction
 <div class="text-purple mb-2">
   My favorite food of all time is sushi specifically from Aka Sushi House in HTX- seriously so good!!
 </div> 
-<br/>
 <div class="text-blue mb-2">
   My whole life, writing has been my biggest weakness. And on top of that, since I was in elementary 
   school, I have been teased on my grammar and pronoucation. This resulted in me being insecure with 
   how I speak and write.
 </div>
-<br/>
 <div class="text-red mb-2">
   I am taking this course not only to challenge myself but also because I have an interest in "digital"
   writing and after my internship this past summer, I know that my future is based on writing.
