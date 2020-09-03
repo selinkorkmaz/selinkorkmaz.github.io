@@ -30,7 +30,9 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
 <br/>
 
 <p>
-    <img src="/searchbar.png" width="100" length="30">
+    <img src="/searchbar.png" width="300" length="100">
 </p>
-
+<p>
+    <img src="/allstores2.png">
+</p>
 
