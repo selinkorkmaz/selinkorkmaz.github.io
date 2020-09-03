@@ -64,8 +64,9 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
     </div>
     <div class="column">  
         <img src="/F021.png" width="375" length="275">
-  </div>
-</div>        
+    </div>
+  </div>    
+<figure>
     <br/>
     <br/>
 I like how there are different ways to navigate through the website, making it user friendly. The search bar is the quickest way by far, and it is what I use personally. The All Stores button showcases the wide variety the website has. Lastly, I like how the website incorporates categories; for example, Home & Garden has Kirkland's and Travel & Luggage has CityPASS. Categorization is a helpful tool because it groups similar stores.
