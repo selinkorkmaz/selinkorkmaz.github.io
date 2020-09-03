@@ -12,5 +12,5 @@ My senior year of high school , I was in a program called PALS (Peer Assistance 
 <br/>
 
 <p>
-    <center><img src="/pals.png" alt="centered image" width="700" length="700">
+    <center><img src="/pals.png" alt="centered image" width="400" length="400">
 </p>
