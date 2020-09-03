@@ -34,7 +34,7 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
          <figcaption> 1st Way </figcaption>
     <br/>
     <br/>
-    <img src="/allstores2.png" width="400" length="200">
+    <img src="/allstores2.png" width="400" length="200"> <img src="/arrow.png" width="50" length="50"
     <img src="/arrow.png" width="200" length="200"
     <img src="/letterF.png" width="300" length="100">
     <img src="/arrow.png" width="200" length="200"
