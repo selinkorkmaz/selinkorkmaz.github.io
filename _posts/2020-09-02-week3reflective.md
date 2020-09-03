@@ -43,7 +43,6 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
     </div>
     <div class="column">  
         <img src="/letterF.png" width="250" length="150">
-        <figcaption> 2nd Way </figcaption>
     </div>
     <div class="column"> 
         <img src="/arrow.png" width="28" length="28">
@@ -51,6 +50,7 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
     <div class="column"> 
         <img src="/forever21.png" width="300" length="150">
     </div>
+     <figcaption> 2nd Way </figcaption>
 </div>
     <br/>
     <br/>
