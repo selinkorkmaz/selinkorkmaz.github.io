@@ -4,8 +4,10 @@ title: Week 3 Reflective
 ---
 
 # Mr. Rebates
- 
+
+<div>
 The real-world example I will be discussing is the website Mr. Rebates on https://www.mrrebates.com/. The website is a shopping portal where you can do online shopping and earn cash back from shopping at 3000+ stores. 
+</div> 
 
 As you enter the website, you are initially presented with five store names on the left, the store of the week (as I am writing this it is shop Disney), and an eBay coupon. As you scroll just a tad bit, you will see the Weekly Deals, which displays twenty-eight different stores. Lastly, right below the Weekly Deals list is the New Stores, which includes six more different stores.
  
@@ -21,7 +23,3 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
 
 
 
-<figure>
-	<img src="./images/data-id-card.jpg" alt="A Sample Texas A&M ID Card">
-	<figcaption>A Sample Texas A&M ID Card</figcaption>
-</figure>
