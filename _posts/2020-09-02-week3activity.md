@@ -13,8 +13,5 @@ During my senior year of high school, I was in a school program called PALS (Pee
 
 <p>
     <center><img src="/pals.png" alt="centered image" width="400" length="400">
-</p>
+
     
-## Team Member Cards
-## The Demographic of Others
-## "Based on a True Story"
