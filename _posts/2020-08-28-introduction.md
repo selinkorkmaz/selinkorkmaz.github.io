@@ -2,14 +2,13 @@
 layout: post
 title: Introduction 
 ---
-# Hello!
 
-~~~
+
+---
 <div class="text-purple mb-2">
   My name is Selin Korkmaz and I am half Taiwanese/ half Turkish.
 </div>
-~~~
-
+---
 <div class="text-blue mb-2">
   I am a senior Communication major with a double minor in Chinese and Cybersecurity from Houston, TX. 
 </div>
