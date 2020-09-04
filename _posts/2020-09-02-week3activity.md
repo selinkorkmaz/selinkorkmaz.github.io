@@ -10,11 +10,6 @@ This week's topic was about data. When I clicked the link to see the data visual
 
 During my senior year of high school, I was in a school program called PALS (Peer Assistance and Leadership). At our PALS banquet, the teacher gifted each of us a present. It was a framed word cloud of all the characteristics that everyone wrote down about each other. Not only did it make everyone feel loved, but it was also a thoughtful gift to keep for years and years. I have held mine in my room hung on the wall ever since, and every time I look at it, I am reminded that I am funny, kind, honest, fair, and more. 
 <br/>
-<figure>
-    <p>
-    <center><img src="/pals.png" alt="centered image" width="400" length="400">
-    </p>
-</figure>
 
 ## Team Members Cards
 
@@ -25,6 +20,6 @@ I like the simple, sharp, and easy to read format of the card picker, but I am n
 <br/>
  
 Right now, the card picker showcases four cards with four different job titles. If they were about 20+ cards, I would either alphabetize by name or job description to make it easier. If a larger company with 5+ departments wanted to create this, even using the colors for categorization is a great option. For example, blue = types of engineers, red = human resources, green = business, etc. to help keep it organized.
-
+<br/>
     
 
