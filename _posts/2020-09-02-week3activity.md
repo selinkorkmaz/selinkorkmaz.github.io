@@ -23,9 +23,6 @@ According to the website, Gantt Charts display a list of activities (or tasks) w
 </div>
 <br/>
 
-According to the website, Gantt Charts display a list of activities (or tasks) with their duration over time, showing when each activity starts and ends. This makes Gantt Charts useful for planning and estimating how long an entire project might take. You can also see what activities are running parallel to each other. 
-<br/>
-
 There are mulitle web browsers that generate a Gannt Chart instead of spending time designing one yourself. I like how 
 <br/>
 
