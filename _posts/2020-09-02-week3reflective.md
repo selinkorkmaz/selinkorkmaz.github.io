@@ -3,7 +3,7 @@ layout: post
 title: Week 3 Reflective
 ---
 
-# Mr. Rebates
+## Mr. Rebates
 
 The real-world example I will be discussing is the website Mr. Rebates on https://www.mrrebates.com/. The website is a shopping portal where you can do online shopping and earn cash back from shopping at 3000+ stores.
 <br/>
