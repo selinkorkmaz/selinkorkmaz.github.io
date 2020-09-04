@@ -33,3 +33,13 @@ As someone who identifies as mixed race (half Turkish/half Taiwanese), I would n
 I like how the creator incorporated different colors for each graph, giving it a distinguish. I like how when you click the other options, the graph instantly switches. The interactive square pie chart visually looks appealing to the user's eye, but it can be hard to read for some. The more the square chart is filled, the more challenging; in my opinion, it is to read what exactly the percentage is without having to count the squares. I don't know if incorporating somewhere the percentage alongside the square pie chart defeats the whole purpose of this specific type of chart, but that could be helpful.
 <br/>
 
+## Based on a True Story
+
+At first glance, the visualization is very chaotic. If someone was unfamiliar or had not heard of this type of chart, they might feel the same. The data is presented to show which parts of each movie are true and how true are they to reality. As someone who is a HUGE movie lover, I love this and will be spending lots of time on it.
+<br/>
+
+The data incorporates a Likert scale from True, True-ish, False-ish, False, Unknown along with different colors. I also like how it provides a credible source under reality for proof. I think it is really cool to see how much accuracy (percentage and visually by colors) is based on a true story movie. The movie Selma has 100%, while The Imitation Game has 42.3%.
+<br/>
+
+Overall, the visualization is very straightforward with in-depth research. It provides a timestamp, a clear image of the movie's part, detail of the movie scene, a realistic description, and whether it is one of the five options.
+<br/>
