@@ -31,8 +31,6 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
 <p>
     <img src="/searchbar.png" width="300" length="100"> 
 </p>
-    <br/>
-    <br/>
 <div class="columns">
     <div class="column">
         <img src="/allstores2.png" width="250" length="150">
@@ -50,8 +48,6 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
         <img src="/F21.png" width="230" length="130">
     </div>
  </div>
-   <br/>
-   <br/>
 <div class="columns">
     <div class="column">
         <img src="/apparel.png" width="250" length="150">
@@ -64,16 +60,12 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
     </div>
  </div> 
     <br/>
-<p>
-    <figure>
+
 I like how there are different ways to navigate through the website, making it user friendly. The search bar is the quickest way by far, and it is what I use personally. The All Stores button showcases the wide variety the website has. Lastly, I like how the website incorporates categories; for example, Home & Garden has Kirkland's and Travel & Luggage has CityPASS. Categorization is a helpful tool because it groups similar stores.
-    </figure>
-</p>
-<p>
-    <figure>
+<br/>
+
 Overall, Mr. Rebates is a simple, user-friendly website for users to navigate through. This website displays a list of its dictionary for users to chose from. It has so many stores you probably never heard of, which is excellent because it will increase your chance of a store that you are looking for is there.
-   </figure>
-</p>
+<br/>
 
 Let's not forget- who doesn't love cash back!!  Depending on which store, Mr. Rebates goes as low as 0.5% cash back up to 30% cash back. So sign up today! 
 <br/>
