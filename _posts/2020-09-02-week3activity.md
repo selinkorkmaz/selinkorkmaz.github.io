@@ -10,7 +10,15 @@ This week's topic was about data. When I clicked the link to see the data visual
 
 To be fair, I clicked on this visualization because the name caught my eye. As soon as I saw the visual, I immediately thought, "Wait a minute, this reminds me of a planner but in a different set up." 
 <br/>
-
+<div class="row">
+    <div class="column">
+        <img src="/gchart.png" width="350" length="250">
+    </div>
+    <div class="column">  
+        <img src="/gchart2.png" width="350" length="250">
+    </div>
+</div>
+<br/>
 According to the website, Gantt Charts display a list of activities (or tasks) with their duration over time, showing when each activity starts and ends. This makes Gantt Charts useful for planning and estimating how long an entire project might take. You can also see what activities are running parallel to each other. 
 
 There are mulitle web browsers that generate a Gannt Chart instead of spending time designing one yourself. I like how 
@@ -24,4 +32,3 @@ During my senior year of high school, I was in a school program called PALS (Pee
 <p>
     <center><img src="/pals.png" alt="centered image" width="400" length="400">
 
-    
