@@ -71,9 +71,11 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
 I like how there are different ways to navigate through the website, making it user friendly. The search bar is the quickest way by far, and it is what I use personally. The All Stores button showcases the wide variety the website has. Lastly, I like how the website incorporates categories; for example, Home & Garden has Kirkland's and Travel & Luggage has CityPASS. Categorization is a helpful tool because it groups similar stores.
     </figure>
 </p>
-
+<p>
+    <figure>
 Overall, Mr. Rebates is a simple, user-friendly website for users to navigate through. This website displays a list of its dictionary for users to chose from. It has so many stores you probably never heard of, which is excellent because it will increase your chance of a store that you are looking for is there.
-<br/>
+   </figure>
+</p>
 
 Let's not forget- who doesn't love cash back!!  Depending on which store, Mr. Rebates goes as low as 0.5% cash back up to 30% cash back. So sign up today! 
 <br/>
