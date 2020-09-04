@@ -41,5 +41,5 @@ At first glance, the visualization is very chaotic. If someone was unfamiliar or
 The data incorporates a Likert scale from True, True-ish, False-ish, False, Unknown along with different colors. I also like how it provides a credible source under reality for proof. I think it is really cool to see how much accuracy (percentage and visually by colors) is based on a true story movie. The movie Selma has 100%, while The Imitation Game has 42.3%.
 <br/>
 
-Overall, the visualization is very straightforward with in-depth research. It provides a timestamp, a clear image of the movie's part, detail of the movie scene, a realistic description, and whether it is one of the five options.
+Overall, the visualization is very straightforward with in-depth research. It provides a timestamp, a clear image of the movie's part, detail of the movie scene, a realistic description, and whether it is one of the five options. I want more movies to be added!! 
 <br/>
