@@ -28,9 +28,11 @@ When you click the tab Stores, it brings you to the page of All Stores where you
 Let's say I am shopping online at Forever 21, and I found a minimum of one item to put in my shopping cart for purchase. Before I complete my purchase, I remember that I need to check Mr. Rebates for cash back. I have three ways of finding Forever 21's cash back. First, I can type it in the search bar. Second, I can click Stores -> All Store -> letter F and scroll down to Forever 21. Third, I can click Stores -> Apparel & Accessories and scroll down to Forever 21. All three methods will tell me that Forever 21 is doing 3% cash back and has one coupon available.
 <br/>
 
+<p>
 <figure>
     <center><img src="/searchbar.png" alt="centered image" width="300" length="100"> 
-         <figcaption> 1st Way </figcaption>
+</figure>
+</p>
     <br/>
     <br/>
 <div class="columns">
@@ -61,7 +63,6 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
     </div>
     <div class="column">  
         <img src="/F021.png" width="375" length="275">
-         <figcaption> 2nd Way </figcaption>
     </div>
  </div> 
     <br/>
