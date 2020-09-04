@@ -32,8 +32,8 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
 <figure>
     <center><img src="/searchbar.png" alt="centered image" width="300" length="100"> 
          <figcaption> 1st Way </figcaption>
-    <br/>
-    <br/>
+</figure>
+<figure>
 <div class="columns">
     <div class="column">
         <img src="/allstores2.png" width="250" length="150">
@@ -52,8 +52,8 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
         <img src="/F21.png" width="230" length="130">
     </div>
  </div>
-   <br/>
-   <br/>
+</figure>
+<figure>
 <div class="columns">
     <div class="column">
         <img src="/apparel.png" width="250" length="150">
@@ -65,7 +65,7 @@ Let's say I am shopping online at Forever 21, and I found a minimum of one item 
         <img src="/F021.png" width="375" length="275">
     </div>
  </div> 
-    <br/>
+</figure>
 <p>
     <figure>
 I like how there are different ways to navigate through the website, making it user friendly. The search bar is the quickest way by far, and it is what I use personally. The All Stores button showcases the wide variety the website has. Lastly, I like how the website incorporates categories; for example, Home & Garden has Kirkland's and Travel & Luggage has CityPASS. Categorization is a helpful tool because it groups similar stores.
