@@ -23,3 +23,8 @@ The second visuals showcase a list, and you have the option to pick between stat
  
 My screen defaults to College Station, TX; therefore, the website presents three types of questions you can click.  The first one is "How Texas compares to nearby states?" followed by "How Brazos compares to nearby counties?" and ending with "How College Station compares to nearby cities?" for me. Each question showcases nine different states, counties, and cities and their answers to each category.
 <br/>
+
+### GIF- How will flood risk change in my area? 
+
+The third visual is a GIF (Graphics Interchange Format), where you can search a location, and it will show the progression of the number of properties at risk of flooding from 2020 to 2035 to 2050. Personally, it was hard for me to understand the GIF visual as I could not tell much of a difference at all between the three different years.
+<br/>
