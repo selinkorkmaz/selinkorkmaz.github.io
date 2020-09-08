@@ -8,7 +8,7 @@ title: Week 3 Reflective
 The Pudding is a digital platform that explains ideas debated in culture with visual essays. The article, "How is flooding affecting your community?" models the likelihood that homes will flood both today (2020) and 30 years into the future (2050), accounting for increases in storm severity and sea-level rise due to climate change.
 <br/>
 
-### Bubble Map
+### Bubble Map - How many propertie are affected in my community? 
 
 The first visual showcases a bubble map where circles are displayed over a designated geographical region with the circle's area proportional to its value in the dataset. There are three different bubble sizes with three different colors. First, we have a light blue bubble, which indicates fewer properties (this is the smallest bubble). Next, we have a yellow bubble that indicates middle properties. Last, we have a pink bubble, which means more properties (this is the largest bubble). There is also the option to search which city of your choice in the search bar provided.
 <br/>
