@@ -12,6 +12,6 @@ Here are some photos with two included videos that best describe who I am!
 <iframe src='https://gfycat.com/ifr/OilyAlertBlacknorwegianelkhound' frameborder='0' scrolling='no' allowfullscreen width='440' height='600'></iframe>
 <iframe src='https://gfycat.com/ifr/DopeyApprehensiveFlickertailsquirrel' frameborder='0' scrolling='no' allowfullscreen width='440' height='600'></iframe>
 <img src="sands.jpg" width="440" height="600">
-
+<img src="nature.JPG" width="440" height="600">
 
 
