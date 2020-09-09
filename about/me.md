@@ -11,4 +11,5 @@ Here are some photos with two included videos that best describe who I am!
 ![Favorite Desert](icecream.JPG)
 <iframe src='https://gfycat.com/ifr/OilyAlertBlacknorwegianelkhound' frameborder='0' scrolling='no' allowfullscreen width='440' height='600'></iframe>
 <iframe src='https://gfycat.com/ifr/DopeyApprehensiveFlickertailsquirrel' frameborder='0' scrolling='no' allowfullscreen width='440' height='600'></iframe>
-![Camp Friends](BT.jpg)
+
+<img src="BT.jpg" width="440" height="600">
