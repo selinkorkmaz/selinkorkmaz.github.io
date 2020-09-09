@@ -2,8 +2,7 @@
 layout: post
 title: What is a File?
 ---
-
-Here is the link to my page: https://selinkorkmaz.github.io/about/me.html
+<p>Here is the link to my page:</p><a href="https://selinkorkmaz.github.io/about/me.html">
 
 ### First Photo
 If you know me, then you know that I am a behind the camera, I'll take your photo instead, type of person. I am rarely in front of the camera, but I challenged myself to be in front of it as often as possible because it was my !!!21st BIRTHDAY!!! The image displayed is one of my favorite photos I have ever taken with one of my best friends. We both look so beautiful, so happy, and had the best time! 
@@ -21,6 +20,7 @@ I am the friend known to know the best food places in Houston. I have a reputati
 In high school, my go-to order was a triple chocolate crepe with strawberries and a scoop of vanilla ice cream, BUT now I get a triple chocolate waffle with strawberries and a scoop of vanilla ice cream. Both are amazing, so I highly recommend it! Also, a big tip from me is to bring a water bottle because it helps so much when you are devouring it. 
 <br/>
 ### First Video
+
 
 ### Second Video
 
