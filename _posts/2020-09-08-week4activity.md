@@ -18,7 +18,7 @@ THE BEST DESSERT EVER! You can't tell me when you look at that photo; your mouth
 I am the friend known to know the best food places in Houston. I have a reputation, and I take loads of pride in it. I LOVE showing my friends with new locations because I love to share my food experience with others. This place is called Sleek Creperies | Cafe, and it is so delicious. If you love chocolate, then this place is where you need to go!! 
 <br/>
 
-In high school, my go-to order was a triple chocolate crepe with strawberries and a scoop of vanilla ice cream, BUT now I get a triple chocolate waffle with strawberries and a scoop of vanilla ice cream. Both are amazing, so I highly recommend it! Also, a big tip from me is to bring a water bottle because it helps so much when you are devouring it. 
+In high school, my go-to order was a triple chocolate crepe with strawberries and a scoop of vanilla ice cream, BUT now I get a triple chocolate waffle with strawberries and a scoop of cookies & cream ice cream. Both are amazing, so I highly recommend it! Also, a big tip from me is to bring a water bottle because it helps so much when you are devouring it. 
 <br/>
 
 ### First Video
