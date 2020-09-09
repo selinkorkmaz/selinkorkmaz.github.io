@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Introduction 
+title: What is a File?
 ---
 
-## What is a File? 
