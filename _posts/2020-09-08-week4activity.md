@@ -29,8 +29,11 @@ In this video, I told our friend Maria who was recording, that I am making this 
 <br/>
 
 ### Second Video
+At first, I tried to find a video that is not of another dessert, but I couldn't resist. Another favorite spot of mine that I love taking people to try is Amorino in River Oaks District. Not only do they have a wide selection of tasty gelato, but when you ask for a cone, they make it into a rose- how cool! I highly recommend this place as I only have great things to say. 
+<br/>
 
 ### Third Photo
+
 
 ### Fourth Photo
 
