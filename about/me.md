@@ -11,7 +11,7 @@ Here are some photos with two included videos that best describe who I am!
 <img src="icecream.JPG" width="440" height="600">
 <iframe src='https://gfycat.com/ifr/OilyAlertBlacknorwegianelkhound' frameborder='0' scrolling='no' allowfullscreen width='440' height='600'></iframe>
 <iframe src='https://gfycat.com/ifr/DopeyApprehensiveFlickertailsquirrel' frameborder='0' scrolling='no' allowfullscreen width='440' height='600'></iframe>
-<img src="piercing.PNG" width="440" height="600">
-<img src="houston.HEIC" width="440" height="600">
+<img src="piercing.PNG" width="420" height="600">
+<img src="houston.HEIC" width="420" height="600">
 
 
