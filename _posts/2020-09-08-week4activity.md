@@ -10,6 +10,7 @@ If you know me, then you know that I am a behind the camera, I'll take your phot
 
 I have never properly celebrated my birthday ever, as I do not like to be the center of attention. I look at my birthday each year as a regular day, so this time around, I wanted to go all out for my 21st birthday. It was a night to remember, and I miss it!
 <br/>
+
 ### Second Photo
 THE BEST DESSERT EVER! You can't tell me when you look at that photo; your mouth does not water!!
 <br/>
@@ -19,8 +20,13 @@ I am the friend known to know the best food places in Houston. I have a reputati
 
 In high school, my go-to order was a triple chocolate crepe with strawberries and a scoop of vanilla ice cream, BUT now I get a triple chocolate waffle with strawberries and a scoop of vanilla ice cream. Both are amazing, so I highly recommend it! Also, a big tip from me is to bring a water bottle because it helps so much when you are devouring it. 
 <br/>
-### First Video
 
+### First Video
+Not only am I am pro in basketball, but the video is taken at my friend's house. Her parents wanted to build an indoor basketball court, so whenever we (our friends and I) come over to her place, we like to play basketball. We always have a fun time! 
+<br/>
+
+In this video, I told our friend Maria who was recording, that I am making this shot. Keep in mind that this was not my first attempt, but it just so happened that she was recording when I made it in! We both got so excited and kept watching the video over and over again!
+<br/>
 
 ### Second Video
 
