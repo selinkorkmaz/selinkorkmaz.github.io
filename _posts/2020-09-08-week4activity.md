@@ -33,10 +33,14 @@ At first, I tried to find a video that is not of another dessert, but I couldn't
 <br/>
 
 ### Third Photo
+I crave adventure, so when I had the opportunity this past December to go with my friends to New Mexico and make a pit stop at White Sands National Park, I was so excited! They have so many dunes, the sky was beautiful, and the sand is exceptionally soft. 
+<br/>
 
+The funny part about this photo is after I took it, one of our friends told us how they lost their AirPods. To go into more detail, when I was taking pictures, some of my friends wanted to roll down the sand for fun, and one of them had his AirPods in his jean pocket, and next thing you know, it was gone. Poof! We all spent about twenty minutes trying to find it but no luck since white blends with white. 
+<br/>
 
 ### Fourth Photo
+I have this weird thing of asking my friends to send me any nature photos they take to use it as my lock and home screen. I love nature and being outdoors. I think everyone appreciates nature differently, and I love being able to see a glimpse of what they see via a photo. Every time, I look at the picture, it brings me a big smile :) 
+<br/>
 
-
-
-
+Please send me photos! 
