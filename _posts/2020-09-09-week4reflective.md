@@ -29,6 +29,9 @@ To change directory the command **cd** will move you to the directory identified
 <br/>
 
 **carrot**: icky/yicky/grocery-store/vegetable/carrot
+<br/>
 **potato**: icky/yicky/grocery-store/vegetable/potato
+<br/>
 **celery**: icky/yicky/grocery-store/vegetable/celery
+<br/>
 **green-bean**: icky/yicky/grocery-store/vegetable/green-bean
