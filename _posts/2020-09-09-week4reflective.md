@@ -18,7 +18,7 @@ The hierarchical structure in Unix is similar to an upside-down tree. In my TCMG
 
 <img src="/tree.PNG">
 <br/>
-
+                                           
 Question 9 of my TCMG 303 lab asked, "Create directories of carrot, potato, celery, and green-bean under the vegetable directory. 
 <br/>
 
