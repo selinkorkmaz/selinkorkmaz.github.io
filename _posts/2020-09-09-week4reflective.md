@@ -16,7 +16,7 @@ In Unix, everything starts with the root directory, often designated only by **/
 The hierarchical structure in Unix is similar to an upside-down tree. In my TCMG 303 lab, I needed to install the tree application package in the terminal with the command **sudo apt install tree**. The tree tools allow me to display the complete directory tree from the current directory. After the tree application download complete, I need to execute command **tree -d** to display the hierarchical structure.
 <br/>
 
-<img src="/tree.PNG" width="150" height="600">
+<img src="/tree.PNG" width="200" height="600">
                                            
 Question 9 of my TCMG 303 lab asked, "Create directories of carrot, potato, celery, and green-bean under the vegetable directory. 
 <br/>
@@ -27,8 +27,8 @@ To get to the vegetable directory, I need to follow the path by looking at the t
 To change directory the command **cd** will move you to the directory identified. Therefore, **cd icky** takes me from user to the icky directory, **cd yicky** takes me from icky to yicky, and so forth. Once I am in the vegetable directory, I need to use **mkdir** to make a new directory (creates the specified directory). I needed to make four new directories under the names **carrot, potato, celery, and green-bean**. After I completed that, I command **ls** to list the contents of the directory specified to ensure that I did indeed correctly create the four new directories. 
 <br/>
 
-<img src="/vegetable.PNG">
-<br/>
+<img src="/vegetable.PNG" width="600" height="200">
+
 
 **carrot**: icky/yicky/grocery-store/vegetable/carrot
 <br/>
