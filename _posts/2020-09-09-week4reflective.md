@@ -30,9 +30,11 @@ To change directory the command **cd** will move you to the directory identified
 <br/>
 
 <p align="center">
- <img src="/vegetable.PNG">
+ <img width="600" height="200" src="/vegetable.PNG">
  <a href="**carrot**: icky/yicky/grocery-store/vegetable/carrot"</a>
  <a href="**potato**: icky/yicky/grocery-store/vegetable/potato"</a>
+ <a href="**celery**: icky/yicky/grocery-store/vegetable/celery"</a>
+ <a href="**green-bean**: icky/yicky/grocery-store/vegetable/green-bean"</a>
 </p>
 
 
@@ -47,11 +49,3 @@ To change directory the command **cd** will move you to the directory identified
 <br/>
 **green-bean**: icky/yicky/grocery-store/vegetable/green-bean
 
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
