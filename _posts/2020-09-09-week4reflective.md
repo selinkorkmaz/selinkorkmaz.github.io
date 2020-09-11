@@ -31,7 +31,6 @@ To change directory the command **cd** will move you to the directory identified
 
 <p align="center">
  <img width="600" height="200" src="/vegetable.PNG">
-</p>
 
 **carrot**: icky/yicky/grocery-store/vegetable/carrot
 <br/>
@@ -40,4 +39,5 @@ To change directory the command **cd** will move you to the directory identified
 **celery**: icky/yicky/grocery-store/vegetable/celery
 <br/>
 **green-bean**: icky/yicky/grocery-store/vegetable/green-bean
+</p>
 
