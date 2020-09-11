@@ -13,10 +13,10 @@ Everything in Unix is considered to be a file. Unix uses a hierarchical structur
 In Unix, everything starts with the root directory, often designated only by **/**. All other files and directories originate there. The root directory generally includes a set of commonplaces, then subdirectories within those directories, etc. To find specific information in Unix, you need to locate the correct directory, the correct subdirectories, and the correct file.
 <br/>
 
-The hierarchical structure in Unix is similar to an upside-down tree. In my TCMG 303 lab, I needed to install the tree application package in the terminal with the command **sudo apt install tree**. The tree tools allow me to display the complete directory tree from the current directory.
+The hierarchical structure in Unix is similar to an upside-down tree. In my TCMG 303 lab, I needed to install the tree application package in the terminal with the command **sudo apt install tree**. The tree tools allow me to display the complete directory tree from the current directory. After the tree application download complete, I need to execute command **tree -d** to display the hierarchical structure.
 <br/>
 
-After the tree application download complete, I need to execute command **tree -d** to display the hierarchical structure.
+<img src="tree.PNG" width="200" height="600">
 <br/>
 
 Question 9 of my TCMG 303 lab asked, "Create directories of carrot, potato, celery, and green-bean under the vegetable directory. 
