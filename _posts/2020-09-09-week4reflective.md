@@ -16,8 +16,7 @@ In Unix, everything starts with the root directory, often designated only by **/
 The hierarchical structure in Unix is similar to an upside-down tree. In my TCMG 303 lab, I needed to install the tree application package in the terminal with the command **sudo apt install tree**. The tree tools allow me to display the complete directory tree from the current directory. After the tree application download complete, I need to execute command **tree -d** to display the hierarchical structure.
 <br/>
 
-<img src="/tree.PNG">
-<br/>
+<img src="/tree.PNG" width="150 height="600">
                                            
 Question 9 of my TCMG 303 lab asked, "Create directories of carrot, potato, celery, and green-bean under the vegetable directory. 
 <br/>
