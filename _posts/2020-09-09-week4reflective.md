@@ -39,5 +39,4 @@ To change directory the command **cd** will move you to the directory identified
 **celery**: icky/yicky/grocery-store/vegetable/celery
 <br/>
 **green-bean**: icky/yicky/grocery-store/vegetable/green-bean
-</p>
 
