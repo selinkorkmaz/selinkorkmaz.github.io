@@ -26,7 +26,7 @@ Question 6 of my TCMG 303 lab asked, "Create directories of carrot, potato, cele
 To get to the vegetable directory, I need to follow the path by looking at the tree diagram. The directory is currently in **/users/icky/yicky/grocery-store/vegetable**. Where / is the root directory, user is a subdirectory of root, icky is a subdirectoy of user, yicky is a subdirectory of icky, grocery-store is a subdirectory of yicky, and vegetable is a subdirectory of grocery-store. 
 <br/>
 
-To change directory the command **cd** will move you to the directory identified. Therefore, **cd icky** takes me from user to the icky directory, **cd yicky** takes me from icky to yicky, and so forth. Once I am in the vegetable directory, I need to use **mkdir** to make a new directory (creates the specified directory). I needed to make four new directories under the names **carrot, potato, celery, and green-bean**. After I completed that, I command **ls** to list the contents of the directory specified to ensure that I did indeed correctly create the four new directories. 
+To change directory the command **cd** will move you to the directory identified. Therefore, **cd icky** takes me from user to the icky directory, **cd yicky** takes me from icky to yicky, **cd grocery-store** takes me from icky to grocery-store, **cd vegetable** takes me from grocery-store to vegetable. Once I am in the vegetable directory, I need to use **mkdir** to make a new directory (creates the specified directory). I needed to make four new directories under the names **carrot, potato, celery, and green-bean**. Therefore, I need to do **mkdir carrot**, **mkdir potato**, **mkdir celery** and **mkdir green-bean**. After I completed that, I command **ls** to list the contents of the directory specified to ensure that I did indeed correctly create the four new directories. 
 <br/>
 
 <p align="center">
@@ -42,9 +42,3 @@ To change directory the command **cd** will move you to the directory identified
  <br/>
  green-bean: icky/yicky/grocery-store/vegetable/green-bean
  <br/>
- <br/>
- 
-<div align="left">
- Question 10 of my TCMG 303 lab asked, "You disagree that the music in Guardians of the Galaxy was bad...so move the collector to be under the purple infinity stone."
- <br/>
-
