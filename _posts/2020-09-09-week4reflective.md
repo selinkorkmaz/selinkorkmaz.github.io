@@ -20,7 +20,7 @@ The hierarchical structure in Unix is similar to an upside-down tree. In my TCMG
  <img width="200" height="600" src="/tree.PNG">
 </p>
                                            
-Question 9 of my TCMG 303 lab asked, "Create directories of carrot, potato, celery, and green-bean under the vegetable directory. 
+Question 6 of my TCMG 303 lab asked, "Create directories of carrot, potato, celery, and green-bean under the vegetable directory."
 <br/>
 
 To get to the vegetable directory, I need to follow the path by looking at the tree diagram. The directory is currently in **/users/icky/yicky/grocery-store/vegetable**. Where / is the root directory, user is a subdirectory of root, icky is a subdirectoy of user, yicky is a subdirectory of icky, grocery-store is a subdirectory of yicky, and vegetable is a subdirectory of grocery-store. 
@@ -34,11 +34,16 @@ To change directory the command **cd** will move you to the directory identified
 </p>
 
 <div align="center">
-carrot: icky/yicky/grocery-store/vegetable/carrot
-<br/>
-potato: icky/yicky/grocery-store/vegetable/potato
-<br/>
-celery: icky/yicky/grocery-store/vegetable/celery
-<br/>
-green-bean: icky/yicky/grocery-store/vegetable/green-bean
+ carrot: icky/yicky/grocery-store/vegetable/carrot
+ <br/>
+ potato: icky/yicky/grocery-store/vegetable/potato
+ <br/>
+ celery: icky/yicky/grocery-store/vegetable/celery
+ <br/>
+ green-bean: icky/yicky/grocery-store/vegetable/green-bean
+ <br/>
+ 
+<div align="left">
+ Question 10 of my TCMG 303 lab asked, "You disagree that the music in Guardians of the Galaxy was bad...so move the collector to be under the purple infinity stone."
+ <br/>
 
