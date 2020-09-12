@@ -42,6 +42,7 @@ To change directory the command **cd** will move you to the directory identified
  <br/>
  green-bean: icky/yicky/grocery-store/vegetable/green-bean
  <br/>
+ <br/>
  
 <div align="left">
  Question 10 of my TCMG 303 lab asked, "You disagree that the music in Guardians of the Galaxy was bad...so move the collector to be under the purple infinity stone."
