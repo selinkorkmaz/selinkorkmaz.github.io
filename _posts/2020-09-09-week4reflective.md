@@ -33,6 +33,7 @@ To change directory the command **cd** will move you to the directory identified
  <img width="600" height="200" src="/vegetable.PNG">
 </p>
 
+<div align="center">
 **carrot**: icky/yicky/grocery-store/vegetable/carrot
 <br/>
 **potato**: icky/yicky/grocery-store/vegetable/potato
