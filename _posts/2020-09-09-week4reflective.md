@@ -34,11 +34,11 @@ To change directory the command **cd** will move you to the directory identified
 </p>
 
 <div align="center">
-**carrot**: icky/yicky/grocery-store/vegetable/carrot
+carrot: icky/yicky/grocery-store/vegetable/carrot
 <br/>
-**potato**: icky/yicky/grocery-store/vegetable/potato
+potato: icky/yicky/grocery-store/vegetable/potato
 <br/>
-**celery**: icky/yicky/grocery-store/vegetable/celery
+celery: icky/yicky/grocery-store/vegetable/celery
 <br/>
-**green-bean**: icky/yicky/grocery-store/vegetable/green-bean
+green-bean: icky/yicky/grocery-store/vegetable/green-bean
 
