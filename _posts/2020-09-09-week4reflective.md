@@ -10,7 +10,7 @@ One of the classes I am taking this semester as part of my cybersecurity minor i
 Everything in Unix is considered to be a file. Unix uses a hierarchical structure to organize files that are similar to the way a filing cabinet works. The file cabinet itself is the holder of all information - it's the base of the filing system. To find hiring information about a specific employee, for example, you need to locate the correct file cabinet, the right drawer in the cabinet, the correct folder in the drawer, and the correct page of information inside the folder. 
 <br/>
 
-In Unix operating systems, folders are usually referred to as directories. Generally you will use folder when referring to Finder-based views of the file, along with other GUI-based operations, and will use the term directory when referring to terminal and other command-line operations.
+In Unix operating systems, folders are usually referred to as directories. Generally, you will use a folder when referring to Finder-based views of the file and other GUI-based operations. You will use the term directory when referring to the terminal and other command-line operations. In the Unix log files, purple indicates a directory, and white indicates regular files. 
 <br/>
 
 In Unix, everything starts with the root directory, often designated only by **/**. All other files and directories originate there. The root directory generally includes a set of commonplaces, then subdirectories within those directories, etc. To find specific information in Unix, you need to locate the correct directory, the correct subdirectories, and the correct file.
