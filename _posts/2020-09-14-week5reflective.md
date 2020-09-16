@@ -17,3 +17,9 @@ As I examine Professor Lightfoot's website, he does incorporate a heading. HTML 
 <br/>
  
 Under Weekly Topics, the <li> tag is used to give a list of some of the topics that will be covered in lecture. For this particular semester, there were twelve lists. Some of the topics were Arrays and Lists, Functions and Classes, Object Creation and Design, and so forth. 
+<br/>
+ 
+The websites incorporates <head>, <title>, <body>, and <p>. The <head> element contains meta information about the HTML page. The <title> element specifies a title for the HTML page. The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. 
+<br/>
+ 
+As Dr. Pilesch states, "The two most important tags in HTML" are <div> and <span>. For this website, <span> was not used but <div> was used a whole bunch. The <div> tag defines a division or a section in an HTML document. Some examples in the website are <div class="wrapper row3">, <div id="content", and <div class="f1_right">. 
