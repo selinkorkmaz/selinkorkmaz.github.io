@@ -3,7 +3,7 @@ layout: post
 title: Week 3 Reflective
 ---
 
-## How is flooding affecting your commmunity? 
+### How is flooding affecting your commmunity? 
 
 The Pudding is a digital platform that explains ideas debated in culture with visual essays. The article, "How is flooding affecting your community?" models the likelihood that homes will flood both today (2020) and 30 years into the future (2050), accounting for increases in storm severity and sea-level rise due to climate change.
 <br/>
