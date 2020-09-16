@@ -2,6 +2,11 @@
 layout: post
 title: Week 5 Reflective
 ---
+### HTML
+
+HTML is the core of every webpage and an essential skill for any web professional. It is a starting point for anyone learning how to create content for the web, and it is easy to learn. HTML stands for HyperText Markup Language, where Markup Language means that HTML uses tags to identify different types of content and its purposes to the webpage. HTML tags can also be known as "elements." Every web page is made up of a bunch of HTML tags. When a tag is open, for example, <p>, all of the content that follows is assumed to be part of that tag until you "close" the tag which is </p>. When using HTML, you can add headings, format paragraphs, control line breaks, make lists, emphasize text, create special characters, insert images, create links, build tables, etc.
+<br/>
+
 ### people.tamu.edu
 
 In my sophomore year of college, I took CSCE 111 with Robert Lightfoot, and one of our assignments was to create a personal website using HTML. As I do remember creating the website and having a ton of fun; unfortunately, I cannot find the website anymore as I believe it is no longer active since I had to use people.tamu.edu.
