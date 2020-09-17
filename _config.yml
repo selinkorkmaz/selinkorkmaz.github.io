@@ -1,23 +1,20 @@
-# Site Build Settings
-
-# jekyll-paginate configuration
-paginate:            5
-
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+exclude:
+  - node_modules
+  - script
 
 sass:
-  sass_dir: assets/css
-  style: :nested
+  style: :compressed
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Let's Unpack This!"
-description:	       "a lil bit about everything"
-author:              "Selin Korkmaz"
+theme: jekyll-theme-primer
 
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/pages-themes/primer"
+  
+title: Let's Unpack This!
+description: a lil bit about everything
