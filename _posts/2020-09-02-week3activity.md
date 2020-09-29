@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Data?
+title: Data Visualization 
 categories:
 - Activity posts
 ---
