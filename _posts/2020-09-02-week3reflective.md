@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 3 Reflective
+title: What is Data?
 categories:
 - Reflective posts
 ---
