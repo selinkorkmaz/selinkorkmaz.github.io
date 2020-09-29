@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week 5 Reflective
+categories:
+- Reflective posts
 ---
 ### HTML
 
