@@ -1,6 +1,8 @@
 ---
 layout: post
 title: What is Metadata?
+categories:
+- Reflective posts
 ---
 Metadata means data about data. Key information points provided from data are purpose, time and date, author, location, and standard. 
 <br/>
