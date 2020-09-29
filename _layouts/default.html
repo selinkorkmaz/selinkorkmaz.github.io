@@ -16,6 +16,15 @@
       {% include navigation.html %}
  
       {{ content }}
+      
+      {% if post %}
+    		{% assign categories = post.categories %}
+	{% else %}
+    		{% assign categories = page.categories %}
+	{% endif %}
+ 		{% if categories.size > 0%}
+    			<p><strong>Posted In</strong>: {{categories | join: ', ' | capitalize }}</p>
+{%endif%}
 
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
