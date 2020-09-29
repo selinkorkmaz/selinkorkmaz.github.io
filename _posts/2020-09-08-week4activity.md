@@ -1,6 +1,8 @@
 ---
 layout: post
 title: What is a File?
+categories:
+- Activity posts
 ---
 <p>Here is the link to my page:</p><a href="https://selinkorkmaz.github.io/about/me.html">https://selinkorkmaz.github.io/about/me.html</a>
 
