@@ -9,7 +9,7 @@ Metadata means data about data. Key information points provided from data are pu
 It generates the ability to find the right files using associated keywords, understand the content, use files correctly, manage assets more efficiently, and re-arrange assets by specific criteria i.e., last modification date. 
 <br/>
 
-### Where do we use metadata? 
+### Where do we use Metadata? 
 Metadata is used in so many things! Used in search engines, used to find a friend on Facebook, used to look up videos on YouTube, used to look for a recipe in a cookbook, used to search for an article on a database, and more.  
 <br/>
 
