@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week 3 Reflective
+categories:
+- Reflective posts
 ---
 
 ### How is flooding affecting your commmunity? 
