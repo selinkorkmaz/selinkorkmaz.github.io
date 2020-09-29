@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is a File?
+title: File Format
 categories:
 - Activity posts
 ---
