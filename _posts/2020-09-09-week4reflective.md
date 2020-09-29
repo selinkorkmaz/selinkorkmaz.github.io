@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week 4 Reflective
+categories:
+- Reflective posts
 ---
 ### Unix
 
