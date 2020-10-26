@@ -1,20 +1,23 @@
+#
+# This file contains configuration flags to customize your site
+#
+# Name of your site (displayed in the header)
+title: Let's Unpack This! 
+# Short bio or description (displayed in the header)
+description: a lil bit about everything 
+
+#
+# !! DON'T EDIT BELOW THIS MESSAGE
+#
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
 exclude:
-  - node_modules
-  - script
-
-sass:
-  style: :compressed
-
-theme: jekyll-theme-primer
-
-github:
-  private: false
-  license:
-    name: MIT
-  source:
-    branch: "master"
-    path: "/"
-  repository_url: "https://github.com/pages-themes/primer"
-  
-title: Let's Unpack This!
-description: a lil bit about everything
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
