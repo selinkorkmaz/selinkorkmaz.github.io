@@ -12,6 +12,7 @@ Metadata means data about data. It describes data containing specific informatio
 2. `Structural` - shows how information is put together like a table of contents 
 3. `Administrative` - provides information to help manage a resource such as when and how it was created, file type, other technical information, and who can access it 
 <br/>
+
 ### Why is Metadata important?
 It generates the ability to find the right files using associated keywords, understand the content, use files correctly, manage assets more efficiently, and re-arrange assets by specific criteria i.e., last modification date. 
 <br/>
@@ -19,6 +20,7 @@ It generates the ability to find the right files using associated keywords, unde
 ### Where do we use Metadata? 
 Metadata is used in so many things! Used in search engines, used to find a friend on Facebook, used to look up videos on YouTube, used to look for a recipe in a cookbook, used to search for an article on a database, and more.  
 <br/>
+
 ### Digital Image
 Each time you take a photo, a bunch of metadata is gathered and saved. The metadata includes name, title, type, owner, description, tags, time and data, color depth, resolution, date of creation, and location attached. 
 
