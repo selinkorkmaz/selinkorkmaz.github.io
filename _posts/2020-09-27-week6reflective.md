@@ -4,7 +4,13 @@ title: What is Metadata?
 categories:
 - Reflective posts
 ---
-Metadata means data about data. Key information points provided from data are purpose, time and date, author, location, and standard. 
+Metadata means data about data. It describes data containing specific information like type, length, textual description, and other characteristics. 
+<br/>
+
+### Types of Metadata
+1. `Descriptive` - extracts information from the item (title & author) and assign terms (subject headings & classification) for discovery and selection 
+2. `Structural` - shows how information is put together like a table of contents 
+3. `Administrative` - provides information to help manage a resource such as when and how it was created, file type, other technical information, and who can access it 
 <br/>
 
 ### Why is Metadata important?
@@ -17,6 +23,8 @@ Metadata is used in so many things! Used in search engines, used to find a frien
 
 ### Digital Image
 Each time you take a photo, a bunch of metadata is gathered and saved. The metadata includes name, title, type, owner, description, tags, time and data, color depth, resolution, date of creation, and location attached. 
+
+The size of the image can include side dimensions and units of measurement. The color aspect may also be depicted which can entail contrast, colors used, and the extent of the colors. Metadata also specifies the resolution of the image. 
 <br/>
 
 ### Text Document 
