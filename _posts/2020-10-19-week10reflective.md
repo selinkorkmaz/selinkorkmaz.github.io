@@ -16,3 +16,7 @@ After coming up with a random story, I thought it would be easier to change cert
 * **Sitting**: stationed & seated 
 * **Sweetmeats**: sweets & enjoyments 
 * **Death**: end, demise, passing, expiration 
+<br/>
+
+I could've gone about this by creating two different introductions and two different endings (introduction A, introduction B, ending A, ending B), which would make four separate storylines. So each time you hit generate - a different story appeared. 
+<br/>
