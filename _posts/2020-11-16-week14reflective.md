@@ -15,3 +15,6 @@ December 8th is only two weeks and three days away, which means CHOP CHOP. I thi
 
 After finalizing the titles, we can then proceed on who wants to write which one and set a due date (maybe a week before December 8th).  Lastly, after completing the writing portion, we can start the fun stuff of adding pictures & videos and changing colors & fonts, essentially the formatting and styling. 
 <br/>
+
+I am excited to officially start the project's content as I am passionate about the topic of voting. I know voting/talking about your political beliefs can be a sensitive subject for people and can lead to aggressive argumental debates. Still, I firmly believe if you are a citizen of the United States, it is your responsibility to go out and vote. But before you cast your ballot, you must take the time to research and education yourself on the candidates. And before you research, REGISTRAR!! 
+<br/>
