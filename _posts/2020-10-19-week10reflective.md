@@ -12,7 +12,7 @@ After coming up with a random story, I thought it would be easier to change cert
 * **Cleverer**: more intelligent, brighter, smarter, gifted, talented 
 * **Little**: small, mini, tiny
 * **Creatures**: critters & living things 
-* **Kill: murder**, assassinate, destroy, eliminate 
+* **Kill**: murder, assassinate, destroy, eliminate 
 * **Sitting**: stationed & seated 
 * **Sweetmeats**: sweets & enjoyments 
 * **Death**: end, demise, passing, expiration 
