@@ -23,7 +23,6 @@ Atom has incredible key features such as:
 
 GitHub for Atom creates new branches, stage and commit, push and pull, resolve merge conflicts, view pull request and more- all from within your editor. The GitHub package is already bundled with Atom, so you're ready to go! - atom.io  
 <br/>
-
 I remember Professor Lightfoot assigned a card game project for the class to work together with their group. Our first assignment was to create the structure/instructions of the made-up game we will make from our imagination. But the twist was we will code a randomly assigned group's card game instructions instead of our own. After using Atom individually to complete the labs, it was time to use Atom to collaborate on code.
 <br/>
 
