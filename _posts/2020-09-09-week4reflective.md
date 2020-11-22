@@ -25,7 +25,7 @@ The hierarchical structure in Unix is similar to an upside-down tree. In my TCMG
  <img width="200" height="600" src="/tree.PNG">
 </p>
                                            
-Question 6 of my TCMG 303 lab asked, "Create directories of carrot, potato, celery, and green-bean under the vegetable directory."
+Question 6 of my TCMG 303 lab asked, "Create directories of carrot, potato, celery, and green-bean under the vegetable directory".
 <br/>
 
 To get to the vegetable directory, I need to follow the path by looking at the tree diagram. The directory is currently in `/users/icky/yicky/grocery-store/vegetable`. Where / is the root directory, user is a subdirectory of root, icky is a subdirectoy of user, yicky is a subdirectory of icky, grocery-store is a subdirectory of yicky, and vegetable is a subdirectory of grocery-store. 
