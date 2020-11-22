@@ -6,7 +6,7 @@ categories:
 ---
 ### HTML
 
-HTML is the core of every webpage and an essential skill for any web professional. It is a starting point for anyone learning how to create content for the web, and it is easy to learn. HTML stands for HyperText Markup Language, where Markup Language means that HTML uses tags to identify different types of content and its purposes to the webpage. HTML tags can also be known as "elements." Every web page is made up of a bunch of HTML tags. When a tag is open, for example, `<p>`, all of the content that follows is assumed to be part of that tag until you "close" the tag which is `</p>`. When using HTML, you can add headings, format paragraphs, control line breaks, make lists, emphasize text, create special characters, insert images, create links, build tables, etc.
+HTML is the core of every webpage and an essential skill for any web professional. It is a starting point for anyone learning how to create content for the web, and it is easy to learn. HTML stands for HyperText Markup Language, where Markup Language means that HTML uses tags to identify different types of content and its purposes to the webpage. HTML tags can also be known as "elements". Every web page is made up of a bunch of HTML tags. When a tag is open, for example, `<p>`, all of the content that follows is assumed to be part of that tag until you "close" the tag which is `</p>`. When using HTML, you can add headings, format paragraphs, control line breaks, make lists, emphasize text, create special characters, insert images, create links, build tables, etc.
 <br/>
 
 ### people.tamu.edu
@@ -17,7 +17,7 @@ In my sophomore year of college, I took CSCE 111 with Robert Lightfoot, and one 
 People.tamu.edu allows authorized Texas A&M users to publish a personal web page. A webpage is simply a text file written special tags called HTML.
 <br/>
 
-Luckily, I do remember the web page Professor Lightfoot created for his Spring 2019 CSCE 111 course that I took. After locating the website, I right-clicked on the page for the menu option to display "View Page Source." After clicking on it, it opens the document source, showing the page's HTML.
+Luckily, I do remember the web page Professor Lightfoot created for his Spring 2019 CSCE 111 course that I took. After locating the website, I right-clicked on the page for the menu option to display "View Page Source". After clicking on it, it opens the document source, showing the page's HTML.
 <br/>
 
 As I examine Professor Lightfoot's website, he does incorporate a heading. HTML headings are titles or subtitles you want to display on the webpage ranging from `<h1>` to `<h6>`. `<h1>` defines the most important heading and `<h6>` defines the least important heading. A level 1 heading used on the website are for CSCE 111 - Intro to CS - Java, Course Overview, Weekly Topics, Learning Outcomes, Grading, Required Textbook, and Quick Access.
