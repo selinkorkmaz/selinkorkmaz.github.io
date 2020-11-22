@@ -15,11 +15,11 @@ When I took the course CSCE 111 (Introduction to Computer Science Concepts and P
 
 Atom has incredible key features such as: 
   * Easily extensible
-	* Built in package manager 
-	* Smart autocompletion
-	* Split windows
-	* File system browser
-	* Find and replace 
+  * Built in package manager 
+  * Smart autocompletion
+  * Split windows
+  * File system browser
+  * Find and replace 
 
 GitHub for Atom creates new branches, stage and commit, push and pull, resolve merge conflicts, view pull request and more- all from within your editor. The GitHub package is already bundled with Atom, so you're ready to go! - atom.io  
 <br/>
