@@ -8,7 +8,6 @@ This week Dr. Pilsch taught us how to use GitHub like a professional. Whoop Whoo
 <br/> 
 
 After reading remote forks and pull requests, I thought of Google Docs. Google Docs is a platform where you can create, edit, and collaborate with others on documents using your phone, tablet, or computer. In Google Docs, "Viewer " is when the receiver can only view the document, which is similar to "Watch" for the GitHub repository. Next is "Editor," which is most similar to "Fork," where you can interact. Lastly, "Commentator" is most similar to "Star," wherein the star likes a post and the commentator is commenting "I like your post".   
-<br/>
 
 When I took the course CSCE 111 (Introduction to Computer Science Concepts and Programming) with Robert Lightfoot during my sophomore year of college, we used a modern open-source text editor called Atom. After further research, it turns out that Atom is developed by GitHub and is promoted as a "hackable text editor for the 21st century." Atom is defined by making collaboration on code just as easy as coding alone, right from your editor! 
 <br/>
