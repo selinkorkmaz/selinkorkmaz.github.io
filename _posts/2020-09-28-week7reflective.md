@@ -24,3 +24,11 @@ Let's look at the popular website Amazon for example. When you enter the website
 
 Recently from watching a TikTok, I discovered Amazon Outlet. You click Amazon Warehouse, then Outlet, and bam! 30 more categories to pick from all with great deals. I like Amazon Outlet because you can shop online deals and find low prices on markdowns and overstocks. Totally worth checking out! 
 <br/> 
+
+Using Developer Tools to Edit CSS Live was super cool, and I'm surprised at myself for not knowing about it sooner. I learned about the inspect tool years ago, but I didn't realize you can change stuff. During the summer, I stumbled upon a TikTok video by creator @hoppuman, where he teaches how to edit tweets for a meme. To start, he went on Twitter, searched up Donald Trump's page, and found a tweet to change. He right-clicked on the tweet, then clicked on inspect, and then clicked on the down arrow by `<span class =` where he could see the text and swap it with his own.  
+
+I was reading through the comments and I found two funny ones that I would like to share: 
+ * "I've done this with my grades on PowerSchool to show my teachers and parents that I'm not failing" 
+ * "I did this on the Best Buy page to convince my dad that the new MSI laptop isn't a gaming computer and is the most recommended for college" 
+ 
+But just like Dr. Pilsch said, if you refresh the page, the changes will disappear. And sadly, it only changes for you and not anyone else. But hey, why not have fun! Create some funny memes! And post it on social media! 
