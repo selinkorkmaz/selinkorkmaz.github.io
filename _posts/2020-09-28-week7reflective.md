@@ -4,7 +4,7 @@ title: What is Content? What is Style?
 categories:
 - Reflective posts
 ---
-Cascading Style Sheet, commonly referred to as CSS, is a simple design language users can use to make web pages presentable.
+**C**ascading **S**tyle **S**heet, commonly referred to as CSS, is a simple design language users can use to make web pages presentable.
 <br/> 
 
 By using CSS, users can:
