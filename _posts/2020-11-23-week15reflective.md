@@ -24,3 +24,5 @@ As I am writing this, Kailey came up with a brilliant idea of changing the heade
 
 A big issue that I solved with the help of Dr. Pilsch- THANK YOU! Was where every time I clicked any of the headers like `Home`, `Categories`, `FAQ`, or `Debate Videos` it would redirect me to my main domain of https://selinkorkmaz.github.io/. I was in the right direction with my original code but was missing a few key elements. I needed to set `hrefs` to the individual files I want to link for it to work (and it did!). Another suggestion by Dr. Pilsch was to create .md (Markdown) instead of HTML to make it easier because any `.md file` can translate into a `.html file` by Jekyll.
 <br/> 
+
+All in all, I have loved this course and I am excited for the finished final project! 
