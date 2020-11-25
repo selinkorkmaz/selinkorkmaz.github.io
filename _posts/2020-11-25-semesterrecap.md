@@ -38,3 +38,9 @@ Camryn's website covers all that a Texas A&M student would need. She has categor
 <br/>
 
 [Kam](https://yikeskam.github.io/) was going back and forth between creating a hypertext fiction or a blog. After deciding on a blog, she debated between doing a lifestyle or book and ultimately picking books. She plans to develop a book blog on Tumblr called **Keeping it Bookish**, which will consist of `reviews`, `recommendations`, `thoughts`, `rambles`, `pictures`, and more.
+<br/>
+
+As she creates her blog, she focuses on accessibility so her audience can comfortably access/use her site. She stated:
+<br/>
+
+>"Another aspect of sites that is crucial but can be neglected is accessibility. Making sure that a site is usable for everyone, regardless of ability status, is extremely important. Some key steps to take to making a site accessible are the site should be keyboard friendly, the colors for the site should be carefully chosen, text should be resizable, and automatic media, audio, and navigation should not be used. This is not an exhaustive list, but these are great things to think about when thinking about web accessibility." 
