@@ -44,3 +44,6 @@ As she creates her blog, she focuses on accessibility so her audience can comfor
 <br/>
 
 >"Another aspect of sites that is crucial but can be neglected is accessibility. Making sure that a site is usable for everyone, regardless of ability status, is extremely important. Some key steps to take to making a site accessible are the site should be keyboard friendly, the colors for the site should be carefully chosen, text should be resizable, and automatic media, audio, and navigation should not be used. This is not an exhaustive list, but these are great things to think about when thinking about web accessibility." 
+
+I appreciate her mentioning accessibility because something important I have come across with my group is that even though we are creating our platform on a computer, we can't forget about phone users. The size of a phone screen versus a computer screen is drastically different; therefore, we have to make sure the website appears the same and works the same. Because a vast majority are always on their phone, accessibility is key. 
+<br/>
