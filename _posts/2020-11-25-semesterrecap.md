@@ -15,3 +15,6 @@ Some examples include:
 * Creating a site for an organization
 * Making hypertext
 * Developing a bot of some sort
+
+Regarding my group with two excellent partners Kailey and Sarah, we are focus on creating a platform dedicated to voting registration. Our website will cover topics about `Voting in COVID`, `Important dates to remember`, `The importance of voting`, `Where do you start`, `What are your voting rights`, `Texas Voter ID laws`, `Absentee voting`, and `more`!!
+<br/>
