@@ -26,3 +26,14 @@ I observed classmate [Murphy Scott's website](https://murphyscott.github.io/) an
 
 After further reading, it turns out she has decided to create a website about **election aid**, which I would say is similar/underneath the same category as my groups. Her focus is more directed to the overall election topic, where she will cover the `correct information about the election`, `the historical context`, `policies`, `candidates`, etc. At the same time, my group focuses on stressing why it is important to vote, how your vote matters, how to vote, etc. All in all, we could combine our sites where it would be very informative and easy to use for students/anyone undereducated to use, love, and share.  
 <br/>
+
+Next up is [Camryn Lang](https://camrynbl.github.io/), whose project will create a [COVID-19 page specifically for Texas A&M students](https://camrynbl.github.io/COVID-19-Info-For-Students-by-a-Student/). He emphasized how he has added a disclaimer to the welcome page (so he does not need to worry about legalities) to clarify how his site is for A&M students, not by A&M. This is smart to acknowledge because COVID-19 is a serious & hot topic that requires reliable sources to back up the information. The university does not want to be responsible for anything to happen (not saying Camryn would do anything) potentially. Always be safe than sorry!! 
+<br/> 
+
+What I like about my group's, Murphy's, and Camryn's, is we all know that there are tons of websites out there once you search it up on Google, with the information we want to present, but that's the problem- **TONS**. We (all of us) want to create a platform where our audience only needs to go to **one** website, aka **OURS**, and it has everything they need and more. Plus, some websites can be hard to navigate too.
+<br/>
+
+>"I want to create a hub for students to find reliable information, without having to sift through six months’ worth of links and articles." - Camryn 
+
+Camryn's website covers all that a Texas A&M student would need. He has categories like `Changes in Aggie Traditions`, `Sports Changes`, `Schedule and Course Changes`, `Local Resources`, `Health Resources`, `Guidelines & Restrictions`, `COVID-19 Cases`, and `Where to get tested`. Definitely check out his site and share it with your peers!
+
