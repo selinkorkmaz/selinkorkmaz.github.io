@@ -47,3 +47,11 @@ As she creates her blog, she focuses on accessibility so her audience can comfor
 
 I appreciate her mentioning accessibility because something important I have come across with my group is that even though we are creating our platform on a computer, we can't forget about phone users. The size of a phone screen versus a computer screen is drastically different; therefore, we have to make sure the website appears the same and works the same. Because a vast majority are always on their phone, accessibility is key. 
 <br/>
+
+Another final project blog creator is [Brooke Johnson](https://brookejohnson450.github.io/), whose blog will be designed around [lifestyle & personal finance](https://brookejohnson450.github.io/reflection%20post/2020/11/08/seventeenth-post.html). She decided on this because she likes to read about personal finance and unfortunately cannot find any blogs that cater to her age range. Her blog will have a minimalist design that incorporates maroon, white, and black colors to give it a professional look. 
+<br/>
+
+A section on her reflection that I read that my group also discussed was if we want to use GitHub or WordPress. Her reasoning for picking GitHub is exactly the same as my groups. 
+<br/> 
+
+>"I am choosing to create my blog using GitHub rather than WordPress because I think it gives me more opportunities to learn, which is the purpose of this class. I can also directly apply what I learned each week to my blog. I have tried learning WordPress, and I like it, but I feel like GitHub is more of a hands-on experience and I will enjoy that. Plus, GitHub is free!"
