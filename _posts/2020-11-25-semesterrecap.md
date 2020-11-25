@@ -60,3 +60,10 @@ Last but not least is classmate [Taylor Pike](https://taylor-pike.github.io/) wh
 <br/>
 
 > "I knew I wanted to create an interactive story that would keep the reader interested at a greater level than a normal short story because of the user’s ability to alter the life and events of the protagonist."
+
+Taylor emphasizes the word `suspenseful` to have her readers always on their toes. One way that I read she mentioned that I believe will do a great job is the element of `no longer an option`. She describes it by giving an example that provides a clear description of what she is trying to say:
+<br/>
+
+>"For example, if the protagonist is walking through a dark hallway and drops her phone, calling for help can be one of the options on the bottom of the screen, but it will be crossed out since she no longer has her cellphone, adding to the suspense and reminder of paths to survival running out."
+
+Overall, I am excited to see her and everyone else's completed projects. Lastly, I hope my semesterly recap gave you a better insight into our classmate's final-projects!
