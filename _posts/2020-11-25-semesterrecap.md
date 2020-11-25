@@ -26,7 +26,6 @@ I observed classmate [Murphy Scott's website](https://murphyscott.github.io/) an
 
 After further reading, it turns out she has decided to create a website about **election aid**, which I would say is similar/underneath the same category as my groups. Her focus is more directed to the overall election topic, where she will cover the `correct information about the election`, `the historical context`, `policies`, `candidates`, etc. At the same time, my group focuses on stressing why it is important to vote, how your vote matters, how to vote, etc. All in all, we could combine our sites where it would be very informative and easy to use for students/anyone undereducated to use, love, and share.  
 <br/>
-
 Next up is [Camryn Lang](https://camrynbl.github.io/), whose project will create a [COVID-19 page specifically for Texas A&M students](https://camrynbl.github.io/COVID-19-Info-For-Students-by-a-Student/). He emphasized how he has added a disclaimer to the welcome page (so he does not need to worry about legalities) to clarify how his site is for A&M students, not by A&M. This is smart to acknowledge because COVID-19 is a serious & hot topic that requires reliable sources to back up the information. The university does not want to be responsible for anything to happen (not saying Camryn would do anything) potentially. Always be safe than sorry!! 
 <br/> 
 
