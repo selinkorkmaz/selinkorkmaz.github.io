@@ -34,5 +34,5 @@ What I like about my group's, Murphy's, and Camryn's, is we all know that there 
 
 >"I want to create a hub for students to find reliable information, without having to sift through six months’ worth of links and articles." - Camryn 
 
-Camryn's website covers all that a Texas A&M student would need. He has categories like `Changes in Aggie Traditions`, `Sports Changes`, `Schedule and Course Changes`, `Local Resources`, `Health Resources`, `Guidelines & Restrictions`, `COVID-19 Cases`, and `Where to get tested`. Definitely check out her site and share it with your peers!
+Camryn's website covers all that a Texas A&M student would need. She has categories like `Changes in Aggie Traditions`, `Sports Changes`, `Schedule and Course Changes`, `Local Resources`, `Health Resources`, `Guidelines & Restrictions`, `COVID-19 Cases`, and `Where to get tested`. Definitely check out her site and share it with your peers!
 
