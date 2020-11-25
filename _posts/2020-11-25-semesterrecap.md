@@ -66,4 +66,4 @@ Taylor emphasizes the word `suspenseful` to have her readers always on their toe
 
 >"For example, if the protagonist is walking through a dark hallway and drops her phone, calling for help can be one of the options on the bottom of the screen, but it will be crossed out since she no longer has her cellphone, adding to the suspense and reminder of paths to survival running out."
 
-Overall, I am excited to see her and everyone else's completed projects. Lastly, I hope my semesterly recap gave you a better insight into our classmate's final-projects!
+Overall, I am excited to see her and everyone else's completed projects. Lastly, I hope my semesterly recap gave you a better insight into our classmate's final projects!
