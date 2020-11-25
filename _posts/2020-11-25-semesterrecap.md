@@ -55,3 +55,8 @@ A section on her reflection that I read that my group also discussed was if we w
 <br/> 
 
 >"I am choosing to create my blog using GitHub rather than WordPress because I think it gives me more opportunities to learn, which is the purpose of this class. I can also directly apply what I learned each week to my blog. I have tried learning WordPress, and I like it, but I feel like GitHub is more of a hands-on experience and I will enjoy that. Plus, GitHub is free!"
+
+Last but not least is classmate [Taylor Pike](https://taylor-pike.github.io/) who is switching it up and creating a [Twine game Depression Quest](https://taylor-pike.github.io/reflections/2020/11/05/week12-reflection.html)(a protagonist struggling with depression). She said: 
+<br/>
+
+> "I knew I wanted to create an interactive story that would keep the reader interested at a greater level than a normal short story because of the user’s ability to alter the life and events of the protagonist."
