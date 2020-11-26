@@ -16,7 +16,6 @@ For our Hands-on Activity this week, Dr. Pilsch instructed us to add a list of c
 <br/>
 
 After researching more about metadata, I found in digital images, when you take a photo, a bunch of metadata will be gathered and saved. Types of metadata elements include name, title, type, owner, descriptions, tags, time, date, color depth, resolution, and location. More specifically, the size of the image can include side dimensions and units of measurement. Metadata can also specify the resolution of the picture. Metadata has always been right in front of my eyes after taking a photo, and I never knew.  
-<br/>
 
 Text documents like Microsoft Word & Google Docs will collect some standard metadata and enable you to add your fields for each document. Typical areas are title, subject, author, company, status, creation date and time, characters, words, paragraphs, and page numbers. Other text document processors collect the same thing, so it is limited to only Microsoft Word & Google Docs.
 <br/>
